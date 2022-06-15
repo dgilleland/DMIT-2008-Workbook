@@ -42,6 +42,7 @@ Other recommended resources include:
   - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   - [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 - [**How Browsers Work**](https://web.dev/howbrowserswork/)
+- [Video Notebook](https://www.videonotebook.com/) for capturing notes while watching videos (YouTube, Vimeo, etc)
 
 ----
 
