@@ -2,9 +2,9 @@
 
 > **STUDENT_NAME** - Place your name in this line.
 
-This repository is your **Student Workbook** for participating in the in-class demos and for completing practice homework; the coding work is to be placed in the [*`src/`*](./src/ReadMe.md) folder. Learning Outcomes ([**LOGs**](./docs/logs/ReadMe.md)) and other useful notes can be found in the [**docs** folder](./docs), such as links to the [Reading Materials](./docs/Readings.md) for the course. Also, you are encouraged to use the [**docs/mynotes**](./docs/mynotes/ReadMe.md) folder to record your notes from each class.
+This repository is your **Student Workbook** for participating in the in-class demos and for completing practice homework; your coding work is to be placed in the [*`src/`*](./src/ReadMe.md) folder. Learning Outcomes ([**LOGs**](./docs/logs/ReadMe.md)) and other useful notes can be found in the [**docs** folder](./docs), such as links to the [Reading Materials](./docs/Readings.md) for the course. Also, you are encouraged to use the [**docs/mynotes**](./docs/mynotes/ReadMe.md) folder to record your notes from each class.
 
-> :warning: **Do *NOT*** use this repository for any assignments that are worth marks. For work worth marks in this course, only use repositories set up/approved by your instructor. :warning:
+> :warning: **Do *NOT*** use this repository for any assignments that are worth marks. For submitting any work that is worth marks in this course, only use repositories set up/approved by your instructor. :warning:
 
 Additionally, you can find online notes at the course's [Moodle site](https://moodle.nait.ca) and on the unofficial [website notes](https://DMIT-2008.github.io). Also be sure to checkout out the topical [**Learning Outcomes**](https://DMIT-2008.github.io/LOGs.html) used in class.
 
@@ -14,7 +14,7 @@ Additionally, you can find online notes at the course's [Moodle site](https://mo
 
 At the end of the term, your repositories on this [DMIT-2008 GitHub Organization](https://github.com/DMIT-2008) will be removed. You will still have access to your local versions of these repositories for your personal use and review.
 
-> :warning: **Do *NOT*** re-publish your assignment/assessment repositories - doing so with any materials worth marks is an act of academic dishonesty :warning:
+> :warning: **Do *NOT*** re-publish your assignment/assessment repositories - doing so with any materials worth marks is an act of **academic dishonesty**, even if done after completion of your diploma. :warning:
 
 ----
 
