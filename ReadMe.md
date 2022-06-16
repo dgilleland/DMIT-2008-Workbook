@@ -26,6 +26,7 @@ At the end of the term, your repositories on this [DMIT-2008 GitHub Organization
   - [**git**](https://git-scm.com/downloads) - This is the beating heart of **Version Control**, something that you will work with every day. Second only to your editor in terms of usage, it's indispensable for managing your development in teams or on your own.
   - [**GitHub CLI**](https://cli.github.com/) (*Command-Line Interface*) - A tool for interacting with your GitHub repository on the command line.
   - [**node**](https://nodejs.org/en/download/) (which includes **npm**) - Node is a run-time that allows you to use JavaScript on the web server. It comes along with npm (*Node Package Manager*), a package-management tool for the command line that allows you to integrate 3rd-party libraries with your application.
+    - Add the [degit](https://github.com/Rich-Harris/degit/blob/master/README.md) tool as a global package
   - [**Visual Studio Code**](https://code.visualstudio.com) (see [Notes](#vs-code-extensions) on VS Code extensions) - This is the preferred editor for working in almost any programming language.
 - **Accounts/Services**
   - [**GitHub**](https://github.com) - Core to everything you will do, this service handles cloud hosting of your repositories and so, so much more!
