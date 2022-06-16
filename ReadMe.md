@@ -2,6 +2,8 @@
 
 > **STUDENT_NAME** - Place your name in this line.
 
+## Inside this Repository
+
 This repository is your **Student Workbook** for participating in the in-class demos and for completing practice homework; your coding work is to be placed in the [*`src/`*](./src/ReadMe.md) folder. Learning Outcomes ([**LOGs**](./docs/logs/ReadMe.md)) and other useful notes can be found in the [**docs** folder](./docs), such as links to the [Reading Materials](./docs/Readings.md) for the course. Also, you are encouraged to use the [**docs/mynotes**](./docs/mynotes/ReadMe.md) folder to record your notes from each class.
 
 > :warning: **Do *NOT*** use this repository for any assignments that are worth marks. For submitting any work that is worth marks in this course, only use repositories set up/approved by your instructor. :warning:
@@ -33,7 +35,7 @@ At the end of the term, your repositories on this [DMIT-2008 GitHub Organization
   - [**Netlify**](https://www.netlify.com/) - Hosting platform for your website projects. Ultimately, you will need to know how to publish your projects as part of a *Continuous Integration* and *Continuous Development* (CI/CD) workflow. Suitable for static websites.
   - [**Vercel**](https://vercel.com/) - Like *Netlify*, *Vercel* offers hosting and CI/CD workflows to aid you in publishing your websites.
   - [**FireBase**](https://firebase.google.com/) - Similar to *Netlify* and *Vercel*, FireBase also offers various features/products to support dynamic websites, including *realtime databases* and *authentication*.
-- [**Books/Videos**](./docs/Readings.md)
+- [**Books/Articles/Videos**](./docs/Readings.md)
 
 Other recommended resources include:
 
