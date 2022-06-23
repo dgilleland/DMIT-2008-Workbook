@@ -11,7 +11,8 @@
         "analytic-signal.preview-pdf",
         "svelte.svelte-vscode",
         "zixuanchen.vitest-explorer",
-        "rangav.vscode-thunder-client"
+        "rangav.vscode-thunder-client",
+        "bierner.markdown-emoji"
     ],
 	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
 	"unwantedRecommendations": [
