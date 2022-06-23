@@ -13,7 +13,9 @@ The following e-books also serve as good supplementary reading resources.
 
 ## Reading/Video Assignments
 
-- Week 1
+> :muscle: All reading assignments in a given week are to be completed **before** the first class of the week.
+
+- Week 1 *(complete before start of second class)*
   - [**An Introduction to JavaScript**](https://javascript.info/intro)
   - [**A re-introduction to JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - Week 2
@@ -22,7 +24,14 @@ The following e-books also serve as good supplementary reading resources.
   - [ES Modules - A Cartoon Deep Dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
   - [ES6 In Depth: Modules](https://hacks.mozilla.org/2015/08/es6-in-depth-modules/)
 - Week 3
-  - :exclamation: [Build a state management system with vanilla JavaScript](https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript/)
+  - [Build a state management system with vanilla JavaScript](https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript/)
+- Week 4
+  - [Rethinking Reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity)
+  - Complete the [Svelte Tutorial](https://svelte.dev/tutorial/basics) sections for *Introduction*, *Reactivity*, *Props*, *Logic*, *Events* and *Bindings*
+- Week 5
+  - Complete the [Svelte Tutorial](https://svelte.dev/tutorial/basics) sections for *Lifecycle* and *Stores*
+- Week 6
+  - Complete the [Svelte Tutorial](https://svelte.dev/tutorial/basics) sections for 
 
 
 > Subsequent reading assignments will be given in class.

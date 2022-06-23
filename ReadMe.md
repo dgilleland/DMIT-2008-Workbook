@@ -4,11 +4,15 @@
 
 ## Inside this Repository
 
-This repository is your **Student Workbook** for participating in the in-class demos and for completing practice homework; your coding work is to be placed in the [*`src/`*](./src/ReadMe.md) folder. Learning Outcomes ([**LOGs**](./docs/logs/ReadMe.md)) and other useful notes can be found in the [**docs** folder](./docs), such as links to the [Reading Materials](./docs/Readings.md) for the course. Also, you are encouraged to use the [**docs/mynotes**](./docs/mynotes/ReadMe.md) folder to record your notes from each class.
+This repository is your **Student Workbook** (:notebook:) for participating in the in-class demos and for completing practice homework; your coding work is to be placed in the [*`src/`*](./src/ReadMe.md) folder. Learning Outcomes ([**LOGs**](./docs/logs/ReadMe.md)) and other useful notes can be found in the [**docs** folder](./docs), such as links to the [Reading Materials](./docs/Readings.md) for the course. Also, you are encouraged to use the [**docs/mynotes**](./docs/mynotes/ReadMe.md) folder to record your notes from each class.
 
 > :warning: **Do *NOT*** use this repository for any assignments that are worth marks. For submitting any work that is worth marks in this course, only use repositories set up/approved by your instructor. :warning:
 
 Additionally, you can find online notes at the course's [Moodle site](https://moodle.nait.ca) and on the unofficial [website notes](https://DMIT-2008.github.io). Also be sure to checkout out the topical [**Learning Outcomes**](https://DMIT-2008.github.io/LOGs.html) used in class.
+
+### Using This Workbook
+
+As a **3 Credit** course, it should take approximately **135 hours** to complete. The scheduled in-class time is 4 hrs/week, which means only 60 hours are in-class and the remaining 75 hours are self-directed. Expect to do about 5 hrs/week of work outside of class!
 
 ----
 
