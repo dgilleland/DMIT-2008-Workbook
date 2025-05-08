@@ -4,15 +4,12 @@
 
 	// List of extensions which should be recommended for users of this workspace.
 	"recommendations": [
-        "vsls-contrib.codetour",
-        "ritwickdey.liveserver",
         "yzhang.markdown-all-in-one",
         "marp-team.marp-vscode",
         "analytic-signal.preview-pdf",
-        "svelte.svelte-vscode",
-        "zixuanchen.vitest-explorer",
         "rangav.vscode-thunder-client",
-        "bierner.markdown-emoji"
+        "bierner.markdown-emoji",
+        "bradlc.vscode-tailwindcss"
     ],
 	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
 	"unwantedRecommendations": [
