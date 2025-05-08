@@ -23,8 +23,8 @@
 .tgz
 
 
-# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,windows,macos,linux,node,svelte,microsoftoffice
-# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,windows,macos,linux,node,svelte,microsoftoffice
+# Created by https://www.toptal.com/developers/gitignore/api/node,nextjs,macos,windows,linux,visualstudiocode,microsoftoffice
+# Edit at https://www.toptal.com/developers/gitignore?templates=node,nextjs,macos,windows,linux,visualstudiocode,microsoftoffice
 
 ### Linux ###
 *~
@@ -95,15 +95,46 @@ Backup of *.doc*
 # Visio autosave temporary files
 *.~vsd*
 
+### NextJS ###
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
 ### Node ###
 # Logs
 logs
 *.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
 lerna-debug.log*
-.pnpm-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
@@ -144,7 +175,6 @@ jspm_packages/
 web_modules/
 
 # TypeScript cache
-*.tsbuildinfo
 
 # Optional npm cache directory
 .npm
@@ -235,13 +265,6 @@ dist
 # SvelteKit build / generate output
 .svelte-kit
 
-### Svelte ###
-# gitignore template for the SvelteKit, frontend web component framework
-# website: https://kit.svelte.dev/
-
-.svelte-kit/
-package
-
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -260,12 +283,6 @@ package
 # Ignore all local history of files
 .history
 .ionide
-
-# Support for Project snippet scope
-.vscode/*.code-snippets
-
-# Ignore code-workspaces
-*.code-workspace
 
 ### Windows ###
 # Windows thumbnail cache files
@@ -293,4 +310,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,windows,macos,linux,node,svelte,microsoftoffice
+# End of https://www.toptal.com/developers/gitignore/api/node,nextjs,macos,windows,linux,visualstudiocode,microsoftoffice
