@@ -4,11 +4,11 @@
 
 ## Inside this Repository
 
-This repository is your **Student Workbook** (📝) for participating in the in-class demos and for completing practice homework; your coding work is to be placed in the [*`src/`*](./src/ReadMe.md) folder. Learning Outcomes ([**LOGs**](./docs/logs/ReadMe.md)) and other useful notes can be found in the [**docs** folder](./docs), such as links to the [Reading Materials](./docs/Readings.md) for the course. Also, you are encouraged to use the [**docs/mynotes**](./docs/mynotes/ReadMe.md) folder to record your notes from each class.
+This repository is your **Student Workbook** (📝) for participating in the in-class demos and for completing practice homework; your coding work is to be placed in the [*`src/`*](./src/ReadMe.md) folder. Other useful notes can be found in the [**docs** folder](./docs), such as links to [additional Reading Materials](./docs/Readings.md) for the course. Also, you are encouraged to use the [**docs/mynotes**](./docs/mynotes/ReadMe.md) folder to record your notes from each class.
 
 > :warning: **Do *NOT*** use this repository for any assignments that are worth marks. For submitting any work that is worth marks in this course, only use repositories set up/approved by your instructor. :warning:
 
-Additionally, you can find online notes at the course's [Brightspace site](https://lms.nait.ca) and on the unofficial [website notes](https://DMIT-2008.github.io). Also be sure to checkout out the topical [**Learning Outcomes**](https://DMIT-2008.github.io/LOGs.html) used in class.
+Additionally, you can find online notes at the course's [Brightspace site](https://lms.nait.ca) and on the unofficial [website notes](https://DMIT-2008.github.io/dmit2008/classes).
 
 ### Using This Workbook
 

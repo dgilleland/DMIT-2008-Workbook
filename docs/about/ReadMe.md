@@ -4,7 +4,7 @@
 
 At the end of the term, your repositories on this [DMIT-2008 GitHub Organization](https://github.com/DMIT-2008) will be removed. You will still have access to your local versions of these repositories for your personal use and review.
 
-> :warning: **Do *NOT*** re-publish your assignment/assessment repositories - doing so with any materials worth marks is an act of **academic dishonesty**, even if done after completion of your diploma. :warning:
+> :warning: **Do *NOT*** re-publish your assignment/assessment repositories - doing so with any materials worth marks is an act of **academic dishonesty**, even if done after completion of this course or your diploma. :warning:
 
 ----
 
@@ -20,9 +20,6 @@ At the end of the term, your repositories on this [DMIT-2008 GitHub Organization
   - [**Visual Studio Code**](https://code.visualstudio.com) (see [Notes](#vs-code-extensions) on VS Code extensions) - This is the preferred editor for working in almost any programming language.
 - **Accounts/Services**
   - [**GitHub**](https://github.com) - Core to everything you will do, this service handles cloud hosting of your repositories and so, so much more!
-  - [**Netlify**](https://www.netlify.com/) - Hosting platform for your website projects. Ultimately, you will need to know how to publish your projects as part of a *Continuous Integration* and *Continuous Development* (CI/CD) workflow. Suitable for static websites.
-  - [**Vercel**](https://vercel.com/) - Like *Netlify*, *Vercel* offers hosting and CI/CD workflows to aid you in publishing your websites.
-  - [**FireBase**](https://firebase.google.com/) - Similar to *Netlify* and *Vercel*, FireBase also offers various features/products to support dynamic websites, including *realtime databases* and *authentication*.
 - [**Books/Articles/Videos**](../Readings.md)
 
 Other recommended resources include:
@@ -34,13 +31,15 @@ Other recommended resources include:
   - [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 - [**How Browsers Work**](https://web.dev/howbrowserswork/)
 - [Video Notebook](https://www.videonotebook.com/) for capturing notes while watching videos (YouTube, Vimeo, etc)
+- Online Hosting Services
+  - [**Netlify**](https://www.netlify.com/) - Hosting platform for your website projects. Ultimately, you will need to know how to publish your projects as part of a *Continuous Integration* and *Continuous Development* (CI/CD) workflow. Suitable for static websites.
+  - [**Vercel**](https://vercel.com/) - Like *Netlify*, *Vercel* offers hosting and CI/CD workflows to aid you in publishing your websites.
+  - [**FireBase**](https://firebase.google.com/) - Similar to *Netlify* and *Vercel*, FireBase also offers various features/products to support dynamic websites, including *realtime databases* and *authentication*.
 
 ----
 
 ### VS Code Extensions
 
-Here are some helpful VS Code Extensions for JavaScript, HTML, and CSS Development.
-
-- [Markdown All-In-One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+Helpful VS Code Extensions for JavaScript, HTML, and CSS Development along with other items such as Markdown and PDF are listed in the [`extensions.json`](../../.vscode/extensions.json) JSON file.
 
 ----
